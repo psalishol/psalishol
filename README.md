@@ -1,6 +1,6 @@
 <h2 align="left">Hey there, welcome to the world of magic ☺️</h2>
 
-<img src=https://user-images.githubusercontent.com/85138073/222963639-5ced050f-f34e-4061-b45c-da73e352ce5b.jpg alt=cover-photo style="height: 250px; width: 100%" />
+<img src= https://user-images.githubusercontent.com/85138073/222966993-9130dda6-3a42-466d-b16a-8fc3e5413657.jpg alt=github style="height: 200px; width: 100%"/>
 
 <a href="https://github.com/psalishol" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; border-radius: 20px; margin-right: 30px" />
@@ -54,4 +54,3 @@ Hi, i'm psalishol(pronounced: sah-li-shawl) the Mobile Mage, one of my magic is 
 ```yaml
 Building a collaborating platform: Android, Ios, Macos and Windows
 ```
-
