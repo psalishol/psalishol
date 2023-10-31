@@ -52,5 +52,5 @@ Hi, i'm psalishol(pronounced: sah-li-shawl) the Mobile Mage, one of my magic is 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 currently 𝚞𝚙 𝚝𝚘 
 ```yaml
-Building a collaborating platform: Android, Ios, Macos and Windows
+Learning Golang.
 ```
