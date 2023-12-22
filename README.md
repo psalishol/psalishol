@@ -1,7 +1,9 @@
-<h2 align="left">Hey there, welcome to the world of magic ☺️</h2>
+<h2 align="left">Nice having you here!</h2>
 <!--
 <img src= https://user-images.githubusercontent.com/85138073/222966993-9130dda6-3a42-466d-b16a-8fc3e5413657.jpg alt=github style="height: 200px; width: 100%"/>
 -->
+
+<!--
 <a href="https://github.com/psalishol" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; border-radius: 20px; margin-right: 30px" />
 </a>
@@ -16,12 +18,12 @@
 </a>  
 
 <p>Hey, you are probably here to check some of my magics, since you are here, why dont you take some time to meet the mage: swoooochhhh</p>
-
-Hi, i'm psalishol(pronounced: sah-li-shawl) the Mobile Mage, one of my magic is bringing your mobile imagination to reality using the one magic word Bibbidi-Bobbidi-Code...very simple word yes? 😅
-
-  
+-->
+I'm psalishol(pronounced: sah-li-shawl), 
+One thing you should know about me?.. when i'm not coding, will rather be at the kitchen counter mixing recipes. quiet fun!
 
 <br/>  
+Portfolio: https://isholasamuel.netlify.com
 
 <!-- <div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=gaqoirq7papgebs2kzkhw1dfl&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=gaqoirq7papgebs2kzkhw1dfl&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
  -->
