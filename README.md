@@ -25,7 +25,7 @@ Hi, i'm psalishol(pronounced: sah-li-shawl) the Mobile Mage, one of my magic is 
 
 <!-- <div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=gaqoirq7papgebs2kzkhw1dfl&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=gaqoirq7papgebs2kzkhw1dfl&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
  -->
-
+<!--
 ## 🔋&nbsp; Mage Strength
 <div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -54,3 +54,4 @@ Hi, i'm psalishol(pronounced: sah-li-shawl) the Mobile Mage, one of my magic is 
 ```yaml
 Learning Golang.
 ```
+-->
